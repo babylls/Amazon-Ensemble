@@ -114,7 +114,7 @@ def main():
                                    colsample_bytree=0.5,objective='binary:logistic',seed=1) 
     # === load data in memory === #
     print "loading data"
-    y, X,X_test = load_datacount2D('../input/train.csv','../input/test.csv')
+    y, X,X_test = load_datacount2D('train.csv','test.csv')
 
 
     # === one-hot encoding === #
