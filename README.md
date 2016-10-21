@@ -1,7 +1,7 @@
 # ensemble_amazon
 Code to share different ensemble techniques with focus on meta-stacking , using data from Amazon.com - Employee Access Challenge kaggle competition
 
-This code is part of the EE381V Large-Scale Machine Learning PhD level course in the University of Texas (Taught by Alexandros G. Dimakis) and aims to show different ensemble techniques for AUC type of problems (classification).
+This code aims to show different ensemble techniques for AUC type of problems (classification).
 
 The code is for education purposes and did not aim to achieve a high score.
 
